@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"Alle Packages","u":"allpackages-index.html"},{"l":"boardLogic"},{"l":"difficulties"},{"l":"persistance"},{"l":"phases"},{"l":"players"},{"l":"view"}];updateSearchResults();
